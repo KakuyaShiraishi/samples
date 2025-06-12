@@ -1,4 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/KakuyaShiraishi/samples/main/",
-  "phonkLead": "lead/phonk-lead-shot-novela_C#.wav"
+  "phonkLead": "lead/phonk-lead-shot-novela_C#.wav",
+  "whatareyou": "mo_us_whatareyou.mp3",
+  "idolmaker": "mo_us_idolmaker.mp3"
 }
